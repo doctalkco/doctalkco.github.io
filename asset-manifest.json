@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.302fc548.chunk.css",
+    "main.js": "/my-app/static/js/main.5d7d175e.chunk.js",
+    "main.js.map": "/my-app/static/js/main.5d7d175e.chunk.js.map",
+    "runtime-main.js": "/my-app/static/js/runtime-main.58a6d01e.js",
+    "runtime-main.js.map": "/my-app/static/js/runtime-main.58a6d01e.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/my-app/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.303c88bb.chunk.js": "/my-app/static/js/2.303c88bb.chunk.js",
+    "static/js/2.303c88bb.chunk.js.map": "/my-app/static/js/2.303c88bb.chunk.js.map",
+    "index.html": "/my-app/index.html",
+    "precache-manifest.31d8b6f27d893beffce4d52004de1261.js": "/my-app/precache-manifest.31d8b6f27d893beffce4d52004de1261.js",
+    "service-worker.js": "/my-app/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/my-app/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.302fc548.chunk.css.map": "/my-app/static/css/main.302fc548.chunk.css.map",
+    "static/js/2.303c88bb.chunk.js.LICENSE.txt": "/my-app/static/js/2.303c88bb.chunk.js.LICENSE.txt",
+    "static/media/jotlogs_brand.svg": "/my-app/static/media/jotlogs_brand.17891286.svg",
+    "static/media/jotlogs_clay.svg": "/my-app/static/media/jotlogs_clay.45213cf4.svg",
+    "static/media/logo.svg": "/my-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58a6d01e.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.303c88bb.chunk.js",
+    "static/css/main.302fc548.chunk.css",
+    "static/js/main.5d7d175e.chunk.js"
+  ]
+}
